@@ -1,0 +1,22 @@
+{
+  "name": "genetic-algo-playground",
+  "version": "0.0.0",
+  "description": "Just playing around with genetic-algo basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ken210",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-eslint": "^5.0.0",
+    "eslint": "^2.2.0",
+    "eslint-config-airbnb": "^6.0.2",
+    "eslint-plugin-flowtype": "^2.0.1",
+    "eslint-plugin-react": "^4.0.0"
+  }
+}

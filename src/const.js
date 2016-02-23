@@ -1,0 +1,10 @@
+import { getBigArrayFromHell } from './util';
+export const MAX_RANGE = 20;
+export const ROUNDS = 200;
+export const POPULATION_LENGTH = 100;
+export const NUMBERS_ARRAY_SIZE = 60;
+export const ROUNDS_HARD_ARRAY = 100;
+export const NUMBERS = getBigArrayFromHell(NUMBERS_ARRAY_SIZE, MAX_RANGE);
+export const GENE_LENGTH = NUMBERS.length;
+export const SELECT_LENGTH = POPULATION_LENGTH / 2;
+export const MUTATION_LENGTH = POPULATION_LENGTH / 2;
