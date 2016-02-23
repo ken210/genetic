@@ -20,3 +20,12 @@ $ node lib/index.js [task]
 ## Tasks
 - `run-normal` (default)
 - `find-array`
+
+
+### TODO
+
+ - [ ] Choose and install a back-end framework (hapi? express?)
+ - [ ] Choose and install a database (mongo? postgres?)
+ - [ ] Log stuff at the database
+ - [ ] Create a basic front-end using D3.js to analyze data
+ - [ ] Implement these [2 problems](http://users.sussex.ac.uk/~inmanh/easy/alife10/ga_exercise.html)
