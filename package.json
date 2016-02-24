@@ -8,9 +8,7 @@
   },
   "author": "ken210",
   "license": "MIT",
-  "dependencies": {
-    "moment": "^2.11.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-eslint": "^5.0.0",
