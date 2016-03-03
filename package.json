@@ -4,7 +4,10 @@
   "description": "Just playing around with genetic-algo basics",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node lib/index.js",
+    "find-array": "node lib/index.js find-array",
+    "build": "./node_modules/.bin/babel src --out-dir lib --source-maps"
   },
   "author": "ken210",
   "license": "MIT",
